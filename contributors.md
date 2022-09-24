@@ -11,9 +11,12 @@ You can Contribute to create Templates:
 - to increase your Experience, on Group (Team) Projects (Git, GitHub, …)
 <br><br>
 
+### Stacks
+---
+<br>
+
 When you contribute you will work on different kind of Stacks:
 
----
 - Front End
 > HTML, CSS, Javascript, Webpack, SASS, EJS, React, ...
 - Back End

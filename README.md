@@ -4,9 +4,9 @@ This Project is for The Open Source Project, [Library](#).
 <br>
 This Project will help us to create Virtual Books.
 <br><br>
-For each Virtual Books you will have a Custom Template.
+For each Virtual Book you will have a Custom Template.
 <br>
-Each Template have:
+Each Template have 3 Parts:
 <br>
 - Viewer
 - Editor
